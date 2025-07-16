@@ -1,12 +1,1 @@
-{
-  "Brave in the Wild": {
-    "ages": ["5 & Under", "6 & Older"],
-    "genders": ["Girl", "Boy"],
-    "languages": ["English", "Spanish"]
-  },
-  "Ocean Adventure": {
-    "ages": ["5 & Under", "6 & Older"],
-    "genders": ["Girl", "Boy"],
-    "languages": ["English"]
-  }
-}
+{ "Brave in the Wild": { "anguages": ["English", "Spanish"], "genders": ["Girl","Boy"], "ages": ["5 & Under", "6 & Older"] } }
